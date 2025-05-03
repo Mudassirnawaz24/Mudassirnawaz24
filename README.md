@@ -1,7 +1,5 @@
-## Hi there 👋
+# 👋 About Me
 
-<!--
-**Mudassirnawaz24/Mudassirnawaz24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I'm **Shaik Mudassir Nawaz**, an Electronics and Communication Engineering student at **KITS Warangal**, passionate about **embedded systems**, **IoT**, and **power electronics**. I have hands-on experience building real-world solutions using microcontrollers like **Arduino**, **Raspberry Pi**, and **STM32**, along with practical knowledge of **Java**, **Python**, and **hardware interfacing tools**.
 
 💡 I've developed projects ranging from:
