@@ -1,24 +1,36 @@
 # 👋 About Me
 
-I'm **Shaik Mudassir Nawaz**, an Electronics and Communication Engineering student at **KITS Warangal**, passionate about **embedded systems**, **IoT**, and **power electronics**. I have hands-on experience building real-world solutions using microcontrollers like **Arduino**, **Raspberry Pi**, and **STM32**, along with practical knowledge of **Java**, **Python**, and **hardware interfacing tools**.
+I'm **Shaik Mudassir Nawaz**, an Electronics and Communication Engineering student at **KITS Warangal**, with a strong interest in **embedded systems**, **IoT**, **computer vision**, and **full-stack development**. I love working at the intersection of **hardware and software**, building intelligent systems that solve real-world problems.
 
-🚀 Projects:
+💡 **Projects I've Built:**
+- 👋 **Sign Language to Speech System**  
+  A wearable glove with **flex sensors**, **Bluetooth**, and **Arduino**, converting hand gestures into speech for the speech-impaired.
+- 🔋 **EV Battery Management System**  
+  A safety-focused charge monitoring system with **fire protection** capabilities, built using Arduino.
+- 🚘 **Vehicle License Plate Recognition**  
+  A computer vision project using **YOLO**, **OpenCV**, and **OCR** for real-time license plate detection and recognition.
+- 🏥 **Hospital Management System**  
+  A Java-based full-stack application using **MySQL**, **JDBC**, **Swing**, and **JSP** to manage hospital records efficiently.
+- ☀️ **Smart Solar Pumping System**  
+  Intelligent water pumping integrated with solar/grid switching for reliable rural water supply.
 
-👋 Sign Language to Speech System — Wearable glove using flex sensors and Arduino for speech-impaired communication.
+🛠️ **Tech Stack:**  
+- **Languages:** Java, Python, HTML, CSS  
+- **Frameworks/Tools:** Arduino IDE, OpenCV, TensorFlow/Keras, YOLO, Flask, JavaFX, MySQL, Firebase, MongoDB, MATLAB  
+- **Hardware:** Arduino, Raspberry Pi, STM32, Flex Sensors, I2C Protocols
 
-🔋 EV Battery Management System — Charge monitoring and fire protection using sensor feedback.
+📚 **Certifications:**  
+- Java Full Stack – *Wipro TalentNext*  
+- Cybersecurity & Networking – *Cisco NetAcad*  
+- Cloud Computing – *Infosys Springboard*  
+- Embedded Systems – *Emertxe*
 
-☀️ Intelligent Grid-Interfaced Solar Water Pumping — Reliable water pumping via solar power and grid integration.
+🏆 **Achievements:**  
+- Developed an AR-based educational app for interactive learning  
+- Secured 2nd place in a district-level football tournament  
+- Hands-on internships at **NIT Warangal (Tera-IoT)** and **Softways-IT Solutions** in IoT and embedded development
 
-🎓 Certifications:
+🌐 **Interests:**  
+Cybersecurity, Web Development, Cloud Computing, and Computer Vision
 
-Cisco NetAcad Cybersecurity & Networking
-
-Emertxe Embedded Systems
-
-LinkedIn Learning PCB Design with OrCAD
-
-🛠️ Tech Stack: Java | Python | MATLAB | OrCAD | Multisim | Keil | Arduino IDE
-🧠 Soft Skills: Leadership, Problem-solving, Teamwork, Adaptability
-
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/mudassir-nawaz-644860317/) | 📧 shaikmudassirnawaz@gmail.com
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/mudassir-nawaz-644860317/) | 📧 shaikmudassirnawaz@gmail.com
